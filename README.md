@@ -1,6 +1,6 @@
 # shoppingcard
 
-Playground project done in scope of [Clojure Meetup][http://www.meetup.com/London-Clojurians/]
+Playground project done in scope of [Clojure Meetup](http://www.meetup.com/London-Clojurians/)
 
 ## Prerequisites
 
